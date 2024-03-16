@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: MIT cc
 pragma solidity ^0.8.22;
 
 import "@layerzerolabs/lz-evm-oapp-v2/contracts/oft/OFT.sol";
